@@ -1,0 +1,11 @@
+word1	word2	Similarity
+checked	seen	1.0
+work	go	1.0
+see	learn	1.0
+went	get	1.0
+part	broke	1.0
+punching	punch	1.0
+wanted	want	1.0
+better	breaks	1.0
+arrest	collar	1.0
+days	day	1.0
